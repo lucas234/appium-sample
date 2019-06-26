@@ -1,4 +1,3 @@
-package practice.appium;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Assert;
