@@ -1,4 +1,5 @@
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
@@ -11,7 +12,7 @@ import java.net.URL;
 
 public class AndroidLocalTest {
     private static AndroidDriver<?> driver;
-    private static Logger log= Logger.getLogger("appium-log");
+    private static Logger log= LogManager.getLogger("appium-log");
 
     @BeforeTest
     public void beforeTest( ) {
