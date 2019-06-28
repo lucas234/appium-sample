@@ -5,7 +5,7 @@ import time
 import os
 
 
-class AndroidWebview(unittest.TestCase):
+class AndroidSimpleTest(unittest.TestCase):
     def setUp(self):
         app_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../apps/test-app.apk'))
         driver_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../drivers'))
