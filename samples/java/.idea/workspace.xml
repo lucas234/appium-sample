@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3599af07-1876-4e41-8c4e-e7201176fd16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../apps/VodQA.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AndroidMoveSeekbarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SwipeScreenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/android_move_seekbar_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/swip_screen_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/wait.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/android_scroll_screen_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/android_scroll_screen_test.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,10 +28,10 @@
           <entry key="class" value="1" />
           <entry key="feature" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="15" />
+          <entry key="java" value="16" />
           <entry key="log" value="13" />
           <entry key="properties" value="12" />
-          <entry key="xml" value="6" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -48,10 +39,10 @@
           <entry key="CLASS" value="1" />
           <entry key="Cucumber" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Properties" value="12" />
-          <entry key="XML" value="6" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -75,10 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SwipeScreenTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AndroidMoveSeekbarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="941">
-              <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-end-line="102" />
+            <state relative-caret-position="53">
+              <caret line="72" column="5" selection-start-line="49" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,10 +78,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AndroidMoveSeekbarTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SwipeScreenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="43" selection-start-line="10" selection-end-line="11" />
+            <state relative-caret-position="61">
+              <caret line="46" column="26" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -199,7 +193,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562294936161" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562314148797" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -356,12 +350,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22586522" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6575592" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40801457" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5081967" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32969034" />
@@ -447,13 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0-sources.jar!/org/openqa/selenium/support/ui/FluentWait.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2926">
@@ -471,17 +458,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AndroidMoveSeekbarTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="43" selection-start-line="10" selection-end-line="11" />
+        <state relative-caret-position="-119">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SwipeScreenTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="941">
-          <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-end-line="102" />
+        <state relative-caret-position="61">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AndroidMoveSeekbarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="72" column="5" selection-start-line="49" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
