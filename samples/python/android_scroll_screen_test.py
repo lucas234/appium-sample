@@ -81,6 +81,7 @@ class AndroidScrollScreenTest(unittest.TestCase):
         self.assertTrue(self.driver.find_element_by_android_uiautomator("new UiSelector().text(\"Content for tab with tag Tab 24\")").is_displayed())
 
     def scroll_by_UIScrollable(self, horizontal=None):
+        # 滚动定位到要找的元素
         # 1.通过scrollIntoView方法
         by_scroll_into_view = "new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().textContains(\"WebView\").instance(0))"
 
