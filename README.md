@@ -1,7 +1,10 @@
-![appium logo](https://img-blog.csdnimg.cn/20190705160643577.png)
 
-![appium logo](https://img-blog.csdnimg.cn/20190705160712868.png)
-### appium-sample
+<p align="center"> 
+<img src="https://img-blog.csdnimg.cn/20190705160712868.png">
+</p>
+
+### appium-sample 
+
 1.Java
 - appium client version（=5.0.4），maven pom.xml：
     ```xml
