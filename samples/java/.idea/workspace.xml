@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599af07-1876-4e41-8c4e-e7201176fd16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WindowsAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WindowsAppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3599af07-1876-4e41-8c4e-e7201176fd16" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +14,12 @@
     <session id="-1034931801">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,7 +28,7 @@
           <entry key="feature" value="1" />
           <entry key="gif" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="39" />
+          <entry key="java" value="40" />
           <entry key="log" value="13" />
           <entry key="properties" value="12" />
           <entry key="xml" value="9" />
@@ -43,7 +40,7 @@
           <entry key="Cucumber" value="1" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="40" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Properties" value="12" />
           <entry key="XML" value="9" />
@@ -69,11 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/WindowsAppTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WindowsCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="56" column="56" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="56" />
+            <state relative-caret-position="-352">
+              <caret line="23" column="99" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="99" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,13 +90,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DriverFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
+            <state relative-caret-position="4642">
               <caret line="211" column="35" selection-start-line="211" selection-start-column="19" selection-end-line="211" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/AppiumServerJava.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -195,8 +192,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -400,7 +397,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26529053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2706422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -555,16 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WindowsCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="23" column="99" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="99" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -586,20 +573,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WindowsAppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="56" column="56" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageObject/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4642">
+          <caret line="211" column="35" selection-start-line="211" selection-start-column="19" selection-end-line="211" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -613,17 +597,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="211" column="35" selection-start-line="211" selection-start-column="19" selection-end-line="211" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AppiumServerJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WindowsAppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="56" column="56" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WindowsCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="23" column="99" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
