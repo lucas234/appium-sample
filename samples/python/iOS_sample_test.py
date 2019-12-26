@@ -14,7 +14,7 @@ class AndroidSimpleTest(unittest.TestCase):
             "udid": "1A7A0E9D-98AE-4230-BC92-13F66901FCBA",
             "orientation": "LANDSCAPE",
             "connectHardwareKeyboard": True,
-            "app": "/Users/lexisred/Downloads/TestApp.app"
+            "app": "/Users/xxxx/Downloads/TestApp.app"
         }
         self.driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
 
