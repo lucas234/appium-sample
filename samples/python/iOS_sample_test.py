@@ -4,7 +4,7 @@ from appium import webdriver
 import time
 
 
-class AndroidSimpleTest(unittest.TestCase):
+class IosSimpleTest(unittest.TestCase):
     def setUp(self):
         desired_caps = {
             "platformName": "iOS",
