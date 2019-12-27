@@ -5,7 +5,7 @@ import time
 import os
 
 
-class AndroidSimpleTest(unittest.TestCase):
+class IosSimpleTest(unittest.TestCase):
     def setUp(self):
         desired_caps = {
             "platformName": "iOS",
